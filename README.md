@@ -1,25 +1,6 @@
 ## 从零学Python
 
-交流群：722652515
-
-这可能是东半球最好的妹子图小程序，点她、点她、点她！！！
-
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0601/215055_45a9fd8f_87650.png "可以关注公众号的二维码.png")
-
-
-在线百度语音播报：https://gitee.com/52itstyle/baidu-speech
-
-演示地址：https://speech.52itstyle.vip
-
-Activiti 工作流 BPMN 在线作图项目：https://gitee.com/52itstyle/BPMN
-
-演示地址：https://bpmn.52itstyle.vip
-
-一款爬虫博客：
-
-https://blog.52itstyle.top/   
-
-https://blog.52itstyle.top/index
+在线文档：https://www.liqingbo.cn/docs/python/
 
 
 ## 项目介绍
@@ -33,43 +14,7 @@ https://blog.52itstyle.top/index
 |   Django   | 2.1.3 |   Web框架|  https://www.djangoproject.com/ |
 |   PyCharm| 2018.2.4 |  可视化开发工具| http://www.jetbrains.com/pycharm/  |
 
-环境搭建说明：
-
-http://www.runoob.com/python3/python3-install.html
-
-## 软件配置
-
-#### PyCharm
-
-新增一个 Python 项目，File->Settings->project interperter 配置 pip 源 为
-
-
-```
-# 总之快，很快，非常快
-https://pypi.tuna.tsinghua.edu.cn/simple/
-```
-
-![PIP国内源](https://images.gitee.com/uploads/images/2019/0221/223908_71fd84bb_87650.png "1111.png")
-
-最佳字体：
-
-![最佳字体](https://images.gitee.com/uploads/images/2019/0222/212701_4413976c_87650.png "最佳字体.png")
-
-
-#### Git
-
-v2.20.1 (2019-01-01)
-
-- 64-bit Git for Windows Setup : https://npm.taobao.org/mirrors/git-for-windows/v2.20.1.windows.1/Git-2.20.1-64-bit.exe
-- 64-bit Git for Windows Portable : https://npm.taobao.org/mirrors/git-for-windows/v2.20.1.windows.1/PortableGit-2.20.1-64-bit.7z.exe
-
-
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0221/224242_a415c6ee_87650.png "222.png")
-
-## 案例
-
-不定期更新
-
+## 示例
 
 ### Day01
 
@@ -182,18 +127,6 @@ Selenium学习笔记: https://gitee.com/52itstyle/Python/blob/master/Day24/
 [多层感知机](https://gitee.com/52itstyle/Python/tree/master/Tensorflow/%E5%A4%9A%E5%B1%82%E6%84%9F%E7%9F%A5%E6%9C%BA)
 
 
-
-## 欢迎关注
-
-一个有温度的微信公众号，期待与你共同进步，分享美文，分享各种Java学习资源
-
-![输入图片说明](https://images.gitee.com/uploads/images/2018/0809/181043_76e4d5b8_87650.png "1234.png")
-
-
-##  淘宝镜像
-
-https://npm.taobao.org/
-
 ## 参考学习
 
 https://www.python.org/
@@ -203,6 +136,3 @@ https://docs.djangoproject.com/
 http://www.jetbrains.com/pycharm/
 
 http://www.runoob.com/python3/python3-tutorial.html
-
-
- **墙裂推荐，一个能够让程序猿快速开发的极简工具箱：https://gitee.com/52itstyle/SPTools** 
