@@ -18,109 +18,109 @@
 
 ### Day01
 
-爬取套图: https://gitee.com/52itstyle/Python/blob/master/Day01/
+爬取套图: https://github.com/liqingbo27/pythonExample/tree/main/Day01/
 
 ### Day02
 
-操作数据库: https://gitee.com/52itstyle/Python/blob/master/Day02/
+操作数据库: https://github.com/liqingbo27/pythonExample/tree/main/Day02/
 
 ### Day03
 
-爬取小说: https://gitee.com/52itstyle/Python/blob/master/Day03/
+爬取小说: https://github.com/liqingbo27/pythonExample/tree/main/Day03/
 
 ### Day04
 
-爬取小说存入数据库: https://gitee.com/52itstyle/Python/blob/master/Day04/
+爬取小说存入数据库: https://github.com/liqingbo27/pythonExample/tree/main/Day04/
 
 ### Day05
 
-问题总结：https://gitee.com/52itstyle/Python/blob/master/Day05/
+问题总结：https://github.com/liqingbo27/pythonExample/tree/main/Day05/
 
 ### Day06
 
-小说网站雏形: https://gitee.com/52itstyle/Python/blob/master/Day06/
+小说网站雏形: https://github.com/liqingbo27/pythonExample/tree/main/Day06/
 
 ### Day07
 
-日志框架: https://gitee.com/52itstyle/Python/blob/master/Day07/
+日志框架: https://github.com/liqingbo27/pythonExample/tree/main/Day07/
 
 ### Day08
 
-微信监控: https://gitee.com/52itstyle/Python/blob/master/Day08/
+微信监控: https://github.com/liqingbo27/pythonExample/tree/main/Day08/
 
 ### Day09
 
-人脸识别: https://gitee.com/52itstyle/Python/blob/master/Day09/
+人脸识别: https://github.com/liqingbo27/pythonExample/tree/main/Day09/
 
 ### Day10
 
-Django后台: https://gitee.com/52itstyle/Python/blob/master/Day10/
+Django后台: https://github.com/liqingbo27/pythonExample/tree/main/Day10/
 
 ### Day11
 
-链家数据: https://gitee.com/52itstyle/Python/blob/master/Day11/
+链家数据: https://github.com/liqingbo27/pythonExample/tree/main/Day11/
 
 ### Day12
 
-OpenCV识别答题卡: https://gitee.com/52itstyle/Python/blob/master/Day12/
+OpenCV识别答题卡: https://github.com/liqingbo27/pythonExample/tree/main/Day12/
 
 
 ### Day13
 
-生成识别二维码: https://gitee.com/52itstyle/Python/blob/master/Day13/
+生成识别二维码: https://github.com/liqingbo27/pythonExample/tree/main/Day13/
 
 ### Day14
 
-我爬了《流浪地球》十万个短评得出以下结论: https://gitee.com/52itstyle/Python/blob/master/Day14/
+我爬了《流浪地球》十万个短评得出以下结论: https://github.com/liqingbo27/pythonExample/tree/main/Day14/
 
 ### Day15
 
-上传图片二维码并解析: https://gitee.com/52itstyle/Python/blob/master/Day15/
+上传图片二维码并解析: https://github.com/liqingbo27/pythonExample/tree/main/Day15/
 
 ### Day16
 
-文字转音频播报: https://gitee.com/52itstyle/Python/blob/master/Day16/
+文字转音频播报: https://github.com/liqingbo27/pythonExample/tree/main/Day16/
 
 ### Day17
 
-在线百度语音: https://gitee.com/52itstyle/Python/blob/master/Day17/
+在线百度语音: https://github.com/liqingbo27/pythonExample/tree/main/Day17/
 
 ### Day18
 
-微信小黄鸡: https://gitee.com/52itstyle/Python/blob/master/Day18/
+微信小黄鸡: https://github.com/liqingbo27/pythonExample/tree/main/Day18/
 
 ### Day19
 
-Activiti 工作流 BPMN 作图工具: https://gitee.com/52itstyle/Python/blob/master/Day19/
+Activiti 工作流 BPMN 作图工具: https://github.com/liqingbo27/pythonExample/tree/main/Day19/
 
 
 ### Day20
 
-李沧二手房: https://gitee.com/52itstyle/Python/blob/master/Day20/
+李沧二手房: https://github.com/liqingbo27/pythonExample/tree/main/Day20/
 
 ### Day21
 
-车牌号识别: https://gitee.com/52itstyle/Python/blob/master/Day21/
+车牌号识别: https://github.com/liqingbo27/pythonExample/tree/main/Day21/
 
 ### Day22
 
-树莓派闹钟: https://gitee.com/52itstyle/Python/blob/master/Day22/
+树莓派闹钟: https://github.com/liqingbo27/pythonExample/tree/main/Day22/
 
 ### Day23
 
-树莓派监控: https://gitee.com/52itstyle/Python/blob/master/Day23/
+树莓派监控: https://github.com/liqingbo27/pythonExample/tree/main/Day23/
 
 ### Day24
 
-Selenium学习笔记: https://gitee.com/52itstyle/Python/blob/master/Day24/
+Selenium学习笔记: https://github.com/liqingbo27/pythonExample/tree/main/Day24/
 
 ### Day25
 
-爬取博客文章并入库: https://gitee.com/52itstyle/Python/blob/master/Day25/
+爬取博客文章并入库: https://github.com/liqingbo27/pythonExample/tree/main/Day25/
 
 ### Day27
 
-生成微信头像全家福: https://gitee.com/52itstyle/Python/blob/master/Day27/
+生成微信头像全家福: https://github.com/liqingbo27/pythonExample/tree/main/Day27/
 
 ### 机器学习
 
